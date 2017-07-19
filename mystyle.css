@@ -41,7 +41,7 @@ table1, th1, td1 {
 td {
     font-family:"Comic Sans MS", cursive, sans-serif;
 }
-.pic.png { 
+pic.png { 
    position: relative; 
    width: 100%; /* for IE 6 */
 }
